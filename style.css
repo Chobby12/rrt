@@ -24,7 +24,7 @@
     padding: 10px;
     color: green;
 }
-.nav-menu li:nth-child(3) a:hover .services{
+.show, .nav-menu li:nth-child(3) a:hover .services{
     position: absolute;
     display: block;
     color: red;
